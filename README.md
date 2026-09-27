@@ -225,7 +225,6 @@ Pull requests of new projects/apps/libraries are welcome :)
 * [QSourceHighlite](https://github.com/Waqar144/QSourceHighlite) - A lightweight source code/syntax highlighter written in Qt C++.
 * [QmlTreeViewExample](https://github.com/ArtifeksNN/QmlTreeViewExample) - Here is an example of how a tree might look in QML.
 * [QtModelsToolkit](https://github.com/status-im/QtModelsToolkit) - Collection of Qt proxy models and other models-related utilities.
-
 * [QuotaBubble](https://github.com/izzet/quotabubble) - Lightweight floating desktop widget built with PySide6 to track AI coding usage limits and reset countdowns locally with zero telemetry.
 
 ## Multimedia
